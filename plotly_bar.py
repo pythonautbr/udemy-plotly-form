@@ -9,4 +9,4 @@ bar_fig = px.bar(
     title='Total Sales by Country'
 )
 
-bar_fig.show()
+# bar_fig.show()
